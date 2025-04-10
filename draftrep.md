@@ -17,6 +17,8 @@ alt="Blue text on a black background AI-generated content may be incorrect." />
 <img src="./media/image4.png" style="width:3.4191in;height:0.93393in"
 alt="Blue text on a black background AI-generated content may be incorrect." />
 
+<p align="justify">
+  
 > **Index**
 
 1.  Executive Summary
@@ -8303,3 +8305,4 @@ Fig 5. Key Stakeholders for Post-Release
 [^25]: Rutgers University Libraries ‘ALTBIB - Alternatives to Animal
     Testing’ \<<https://www.libraries.rutgers.edu/databases/altbib>\>
     accessed 7 February 2025
+</p>
