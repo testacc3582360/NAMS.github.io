@@ -17,7 +17,7 @@ alt="Blue text on a black background AI-generated content may be incorrect." />
 <img src="./media/image4.png" style="width:3.4191in;height:0.93393in"
 alt="Blue text on a black background AI-generated content may be incorrect." />
 
-<p align="justify">
+<p align="left">
   
 > **Index**
 
@@ -40,7 +40,10 @@ alt="Blue text on a black background AI-generated content may be incorrect." />
 9.  Vaccines
 
 10. Ecosystem level recommendations
-
+</p>
+  
+<p align="justify">
+  
 > **1: Executive Summary**
 
 **Background**
@@ -682,6 +685,10 @@ tools have low complexity of adoption and high impact in terms of cost
 reduction. Therefore, the Indian pharma industry should move towards
 adopting these NAMs in future.
 
+</p>
+
+<p align="left">
+  
 **Key Recommendations for adoption of NAMs:**
 
 1.  Development of indigenous biobanks for validating human cells,
@@ -708,6 +715,10 @@ dermal, respiratory and cardiac toxicity assessments. With appropriate
 investments in infrastructure, training and validation, NAMs can reduce
 dependency on animal testing.
 
+</p>
+
+<p align="justify">
+  
 **The immediate next steps to be taken for adoption of NAMs in India:**
 
 <table>
@@ -779,6 +790,8 @@ Approach**[^1]
 This report deals primarily with three different ecosystems with each
 ecosystem being composed of a diverse set of stakeholders.
 
+<p align="left">
+
 1.  **Ecosystem 1:** Sectors where there are clearly available 3R
     opportunities (generics, biosimilars, cell and gene therapies,
     vaccines, NCEs and NBEs).
@@ -790,6 +803,10 @@ ecosystem being composed of a diverse set of stakeholders.
 Ecosystem level recommendations for each of these three are likely to
 vary significantly.
 
+</p>
+
+<p align="justify">
+  
 **Ecosystem 1: Sectors with existing 3R opportunities**
 
 **Key stakeholders in Ecosystem 1:**
@@ -800,6 +817,8 @@ style="width:6.26772in;height:2.31944in" />
 Fig 1. Key Stakeholders in Ecosystem 1
 
 **Key recommendations:**
+
+<p align="left">
 
 1.  Creation of an **industry consortium** to bring together key
     industry players in these sectors to collectively advocate for the
@@ -814,17 +833,17 @@ The consortium will have the following **functions**:
     Evaluation of Alternative Toxicological Methods (NICEATM) conducts
     workshops and webinars on the 3Rs approach.[^2]
 
-2.  Focus on creating more awareness about 3R opportunities within the
+a.  Focus on creating more awareness about 3R opportunities within the
     pharmaceutical industry in India by collating and disseminating best
     practices that have already been/can be adopted to reduce the number
     of animal tests.
 
-3.  Leverage the Indian Pharmaceutical Association (IPA) to encourage
+b.  Leverage the Indian Pharmaceutical Association (IPA) to encourage
     more and more pharmaceutical companies to reduce their dependence on
     animal testing by making them aware of the potential cost-savings
     that the shift could entail.
 
-4.  Collectively approach regulators to advocate for reduction and
+c.  Collectively approach regulators to advocate for reduction and
     replacement opportunities by seeking meetings, submitting
     representations, and inviting them to workshops and webinars
     organised by the Consortium.
@@ -840,6 +859,10 @@ The consortium will have the following **functions**:
 > thereby create more public pressure on the pharmaceutical industry as
 > well as regulators to explore and utilise the available 3R
 > opportunities.
+
+</p>
+
+
 
 **Ecosystem 2: Drug development sector (NAMs)**
 
@@ -889,6 +912,8 @@ control.
 
 **Spoke Institutions (Specialised Labs):**
 
+<p align="left">
+
 1.  Research and innovation spokes: Located in IITs or national labs
     focusing on specialised NAMs research, e.g., computational
     toxicology.
@@ -896,6 +921,8 @@ control.
 2.  Training and education spokes: Offer workshops, certification
     courses, and skill development programs for both academic and
     industry professionals.
+
+    </p>
 
 **2.Establish a Consortium to catalyse the development and subsequent
 adoption of NAMs.**
@@ -935,6 +962,8 @@ Fig 5. Key Stakeholders for Post-Release
 
 **Key recommendations:**
 
+<p align="left">
+
 1.  Awareness generation within the pharmaceutical industry about the
     availability and benefits of alternatives to Rabbit Pyrogen Test and
     Limulus Amoebocyte Lysate (LAL) test through workshops and webinars.
@@ -963,6 +992,8 @@ guidelines by WHO, EDQM etc. could help in this direction.
 
 5.  Improving adoption of NAMS in the Indian CRO sector via regular
     sensitization programmes, assessing current need via surveys etc.
+
+</p>
 
 > **2.Introduction**
 
@@ -1005,6 +1036,8 @@ guidelines by WHO, EDQM etc. could help in this direction.
 
 Objectives of the Study
 
+<p align="left">
+  
 - Create a roadmap for adopting alternatives to animal experimentation
   for drug development in India.
 
@@ -1033,10 +1066,14 @@ Objectives of the Study
 - Analyse the barriers to adopting alternatives to animal
   experimentation in drug testing to make ecosystem-level
   recommendations to establish a drug development landscape that
-  prioritises NAMs technologies over animal models for drug testing. 
+  prioritises NAMs technologies over animal models for drug testing.
+  
+  </p>
 
 **Hypothesis**
 
+<p align="left">
+  
 > Creating a roadmap for the adoption of alternatives to animal testing
 > in the pharmaceutical sector will catalyse their adoption in drug
 > development in India. This will consequently enhance accuracy and
@@ -1048,8 +1085,12 @@ Objectives of the Study
 > technologies will enable an easier transition and build a robust
 > ecosystem for pharmaceutical drug development.
 
+</p>
+
 **Research Questions**
 
+<p align="left">
+  
 1.  What are the key areas where animal experimentation for drug
     development can be phased out using NAMs technologies?
 
@@ -1091,10 +1132,14 @@ Objectives of the Study
 12. How can we establish a data management system dedicated to promoting
     the adoption and use of NAMs technologies in drug development in
     India?
+    
+</p>
 
 **Methodology**
 
-Overview of Research Methods
+<p align="left">
+  
+Overview of Research Methods:
 
 > This study employs a multi-method research design, combining
 > qualitative and quantitative approaches to assess the adoption
@@ -1201,8 +1246,12 @@ Overview of Research Methods
     supporting publications/application notes (further detailed in
     Tables 2-9).
 
+    </p>
+
 **Sources of Data Collection**
 
+<p align="left">
+  
 - Primary Sources: 
 
 <!-- -->
@@ -1236,9 +1285,12 @@ Overview of Research Methods
     OECD and ICH guidelines (as part of comparative assessment)
 
 - Media Reports
+</p>
 
 **Scope and Limitations**
 
+<p align="left">
+  
 > This study examines the existing landscape of Non-Animal Methods in
 > India, and focuses on India’s transition from animal testing to
 > Non-Animal Methodologies (NAMs) in drug development, focusing on
@@ -1342,6 +1394,7 @@ Overview of Research Methods
   to enter regulatory validation have not been included in the study.
 
 > **3.Generics and Differentiated Drugs **
+</p>
 
 **Introduction:**
 
@@ -1349,6 +1402,7 @@ EMA :
 
 As per European Medicines Agency, a generic medicinal product is defined
 as a medicinal product that has:
+<p align="left">
 
  • the same qualitative and quantitative composition in active
 substance(s) as the reference product, 
@@ -1357,6 +1411,7 @@ substance(s) as the reference product, 
 
 • and whose bioequivalence with the reference medicinal product has been
 demonstrated by appropriate bioavailability studies. 
+</p>
 
 Hybrid medicinal product: A medicine that is similar to an authorised
 medicine containing the same active substance, but where there are
@@ -1370,6 +1425,8 @@ marketed brand-name drug in dosage form, safety, strength, route of
 administration, quality, performance characteristics, and intended use.
 
 Regulatory Scenario
+
+<p align="left">
 
 > According to Article 10 (1) of Directive 2001/83/EC the applicant is
 > not required to provide the results of pre-clinical tests and clinical
