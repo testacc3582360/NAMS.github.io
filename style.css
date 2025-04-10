@@ -41,11 +41,18 @@ nav a:hover {
   border-collapse: collapse;
   width: 100%;
 }
-#markdown-content th, #markdown-content td {
-  border: 1px solid #ccc;
+
+#markdown-content th,
+#markdown-content td {
+  border: 1px solid var(--text);
+  color: var(--text);
+  background-color: var(--bg);
   padding: 8px;
 }
 
+#markdown-content th {
+  background-color: var(--header);
+}
 
 .toggle-btn {
   margin-right: auto;
@@ -56,7 +63,8 @@ nav a:hover {
   font-size: 14px;
 }
 
-.hero, .section {
+.hero,
+.section {
   text-align: center;
   padding: 80px 20px;
 }
